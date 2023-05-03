@@ -8,7 +8,7 @@ chat_id = "-888888888"
 
 # domain name to be scan
 
-url = ['online.hokben.net', 'pettycash.hokben.net', 'www.hokben.co.id' ]
+url = ['xuxuxu.com', 'xaxaxa.com' ]
 
 # iterate thru list
 for hostname in url:
