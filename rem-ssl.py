@@ -3,8 +3,8 @@
 import ssl, socket, time, datetime, requests
 
 # Telegram settings monitoring
-TOKEN = "6105186413:AAF15m0e8uIq9TX3aBi_2LDmmahIwDMEqko"
-chat_id = "-988342340"
+TOKEN = "12345678901:AABBCCddeeff_gghhiijjkk"
+chat_id = "-888888888"
 
 # domain name to be scan
 
